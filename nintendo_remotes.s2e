@@ -1,0 +1,11 @@
+{ "extensionName": "Remotes",
+  "extensionPort": 8081,
+  "blockSpecs": [
+    ["b", "%m.button button pressed on remote %n", "b","B", 1],
+	["r", "remotes", "a"],
+	[" ", "reconnect remotes", "r"]
+  ],
+  "menus": {
+    "button":["up","down","right","left","A","B","select","start"]
+ }
+}

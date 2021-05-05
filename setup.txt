@@ -1,0 +1,4 @@
+scratch 2 http extensions will run in the browser but cannot be shared through traditional means.
+Click on 'File' 'Upload from your computer' and upload 'project.sb2' to get the extension blocks.
+If you are on windows run 'server.bat'.
+If not on windows install python and pygame and run 'remotes.py'.
